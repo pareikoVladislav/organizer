@@ -1,0 +1,9 @@
+.idea/
+__pycache__/
+
+.venv/
+venv/
+.env
+.env.test
+.env.prod
+.env.development
